@@ -1,2 +1,2 @@
 # css-loaders
-Loaders sólo con CSS
+Creación de Loaders utilizando sólo CSS y la propiedad animation.
